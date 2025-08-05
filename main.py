@@ -8,7 +8,6 @@ from tools import list_files, read_file
 with open("example.txt", "w") as f:
     f.write("This is a sample file for the LangChain Open Interpreter demo.\n")
     f.write("It contains two lines of text.\n")
-    f.write("你好，这里是一个简单的测试样例。\n")
 
 def main():
     print("Initializing LangChain Agent...")
