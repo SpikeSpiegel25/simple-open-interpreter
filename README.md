@@ -35,7 +35,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SpikeSpiegel25/simple-open-interpreter
 cd simple-open-interpreter
 ```
 
